@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
-# reminder: change dpp_bot_template
 project(
-  dpp_bot_template
+  dpp_owo_bot
   VERSION 0.1.0
   LANGUAGES CXX)
 # C++ 17 ISO standard
